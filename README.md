@@ -25,3 +25,4 @@ Como padre de 3 gamberros estuvimos buscando nombres divertidos y fácil de reco
 Un Proyecto con Futuro.
 Estamos emocionados de compartir este viaje contigo, un proyecto diseñado para aprender, evolucionar y marcar la diferencia en las vidas de los más pequeños. Todo el código será de código abierto y estará disponible en plataformas como GitHub, Reddit y otras comunidades colaborativas.
 
+Hay dos codigos diferentes por problemas en le diseño de tinkercad que no existe el chip
